@@ -1,0 +1,6 @@
+RecBin - John Moran (john@jtmoran.com)
+
+Parses all $I recycle bin artifacts from Windows Vista+ from a given directory
+and displays date/time deleted, original file path and original file size.
+
+Syntax: recbin.py -d <directory>
